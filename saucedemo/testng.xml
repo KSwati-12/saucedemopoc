@@ -6,6 +6,7 @@
 		<parameter name="usrPassrd" value="admin123"/>
     <classes>
       <class name="org.h2k.ecommerce.saucedemo.TestngEx1"/>
+   
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

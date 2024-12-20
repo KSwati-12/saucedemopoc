@@ -23,8 +23,10 @@ public class SauceDemoTest {
 	@Test
 	public void login()
 	{
-		SauceDemoJava demo1  = new SauceDemoJava();
+		SauceDemoJava demo1  = new SauceDemoJava(driver);
+		
 		demo1.loginSauceDemo(); 
+		demo1.addToCart();
 	}
 	
 }
