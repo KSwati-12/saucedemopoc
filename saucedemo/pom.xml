@@ -69,7 +69,7 @@
           <suiteXmlFiles>
             
             <suiteXmlFile>SauceDemotestng.xml</suiteXmlFile>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
+            
 
           </suiteXmlFiles>
         </configuration>

@@ -9,7 +9,11 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 /* This test case java class is for methods from java class SauceDemoJava.java*/
- /*to run this program right click on SauceDemotestnag.xml-->run as TenstNG Suite  */
+/* To run this program right click on SauceDemotestnag.xml-->run as TenstNG Suite*/
+/* Add SauceDemotestnag.xml in pom.xml unde <configuration>
+          <suiteXmlFiles>  
+            <suiteXmlFile>SauceDemotestng.xml</suiteXmlFile>*/
+
 
 public class SauceDemoTest {
 	WebDriver driver;
