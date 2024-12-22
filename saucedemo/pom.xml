@@ -68,6 +68,8 @@
         <configuration>
           <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
+            <suiteXmlFile>.xml</suiteXmlFile>
+
           </suiteXmlFiles>
         </configuration>
       </plugin>
